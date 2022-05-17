@@ -1,6 +1,6 @@
 # Utilidades de teclado
 ## ASCII
-| Teblas | Lo que genera |
+| Tablas | Lo que genera |
 | - | - |
 | Alt + 126 | <center>~</center> |
 | Alt + 92 | <center>/ invertida</center> |
