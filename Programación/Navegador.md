@@ -2,12 +2,12 @@
 ## Motores de renderizado
 Pasar archivos a pixeles en pantalla.
 
-| Navegador | Motor |
-| ----------- | ------- |
-| Chrome | Blink |
-| Edge | Edge HTML |
-| Safari | ewbkit |
-| Firefox | Gecko |
+| Navegador | Motor     |
+| --------- | --------- |
+| Chrome    | Blink     |
+| Edge      | Edge HTML |
+| Safari    | webkit    | 
+| Firefox   | Gecko     |
 
 ## El navegador hace 5 pasos
 1. Pasar los archivos a objetos.

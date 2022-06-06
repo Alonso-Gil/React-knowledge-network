@@ -20,6 +20,9 @@ Entre mayor especificidad, mayor jerarquia:
 - [[Pseudoclases]]
 - [[Pseudoelementos]]
 
+
+## Funciones
+- [[linear-gradient()]]
 ---
 ## Referencias 
 [MDN Web Docs - ¿Que es el DOM?](https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model/Introduction)

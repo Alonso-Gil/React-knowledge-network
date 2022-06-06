@@ -1,5 +1,5 @@
 # Usando shadow DOM
-El Shadow DOM permite adjuntar arboles DOM ocultos a lemenetos en el arbol DOM regular, este arbol shadow DOM comienza con un elemento **shadow root**, debajo del cual se puede adjuntar cualquier elemento que desee, de la misna manera que el DOM normal.
+El Shadow DOM permite adjuntar arboles DOM ocultos a elemenetos en el arbol DOM regular, este arbol shadow DOM comienza con un elemento **shadow root**, debajo del cual se puede adjuntar cualquier elemento que desee, de la misna manera que el DOM normal.
 
 Hay algunos conceptos de Shadow DOM que deben ser tomados en cuenta:
 - **Shadow host**: El nodo regular del DOM al que es atado el shadow DOM.

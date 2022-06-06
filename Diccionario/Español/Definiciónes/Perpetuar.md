@@ -1,0 +1,2 @@
+# Perpetuar
+Hacer que una cosa dure siempre o mucho tiempo.

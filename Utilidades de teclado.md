@@ -14,4 +14,4 @@
 
 ---
 ## Referencias 
-[MDN Web Docs - ¿Que es el DOM?](https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model/Introduction)
+[El codigo ASCII](https://elcodigoascii.com.ar/)
