@@ -42,3 +42,10 @@ Una cuadrícula responsiva, en la que se puede establecer un tamaño mínimo que
 ![](grid1.gif)
 
 Poner más
+
+~~~
+
+yarn add @artisan-commerce/analytics-capacitor@canary
+@capacitor-community/firebase-analytics facebook-analytics-capacitor
+
+~~~

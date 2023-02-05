@@ -1,0 +1,1 @@
+Se trata de un **sesgo o una distorsión cognitiva.** **Ocurre cuando una persona sobreestima la capacidad o los conocimientos que tiene sobre algo**. Este fenómeno ha sido muy estudiado en psicología social. Hay algunas personas que lo describen como "el fenómeno de cómo los ignorantes se creen los más listos".
