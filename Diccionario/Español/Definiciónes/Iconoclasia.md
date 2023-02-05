@@ -1,1 +1,0 @@
-Consiste en modificar, dañar e incluso destruir monumentos u obras de arte con el propósito de mandar un mensaje.

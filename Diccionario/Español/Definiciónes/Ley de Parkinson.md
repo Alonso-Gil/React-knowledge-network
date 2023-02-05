@@ -1,1 +1,0 @@
-La Ley de Parkinson **establece que el trabajo se expande hasta que ocupa por completo el tiempo destinado para su realización**.

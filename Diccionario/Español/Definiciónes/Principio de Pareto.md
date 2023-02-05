@@ -1,1 +1,0 @@
-Describe que con solo el 20 por ciento del esfuerzo global puede alcanzarse el 80 por ciento del rendimiento. Con un 80 por ciento de trabajo, el restante 20 por ciento de éxito necesita el mayor esfuerzo. Por eso también se la conoce como la Regla del 80/20.

@@ -1,1 +1,0 @@
-El determinismo es una doctrina filosófica que sostiene que todo acontecimiento físico, incluso el pensamiento y las acciones humanas, están causalmente determinados por la irrompible cadena causa-consecuencia y, por tanto, el estado actual «determina» en algún sentido el futuro.
