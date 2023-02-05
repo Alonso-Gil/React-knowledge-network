@@ -1,2 +1,0 @@
-* [[Cambiar cuenta de git]]
-* 
