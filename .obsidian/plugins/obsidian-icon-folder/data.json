@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasT",
+      "FabDev",
+      "RiFilePaper2Line",
+      "RiFilePaper2Fill",
+      "FabAws"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "React-knowledge-network/Programación/AWS/Amplify.md": {
+    "iconName": null,
+    "inheritanceIcon": "FabFacebookF"
+  },
+  "React-knowledge-network/Diccionario": "FasBook",
+  "React-knowledge-network/Diccionario/Ingles": "🇺🇸",
+  "React-knowledge-network/Diccionario/Ingles/Glosario.md": "RiFilePaperFill",
+  "React-knowledge-network/Diccionario/Español": "🇪🇸",
+  "React-knowledge-network/Diccionario/Español/Glosario.md": "RiFilePaperFill",
+  "React-knowledge-network/Diccionario/Español/Definiciónes": "RiFilePaperLine",
+  "React-knowledge-network/Diccionario/Frases.md": "RiFilePaperFill",
+  "React-knowledge-network/Utilidades de teclado.md": "FarKeyboard",
+  "React-knowledge-network": "SiReact",
+  "React-knowledge-network/Notas.md": "FarNoteSticky",
+  "React-knowledge-network/Programación/Git": "SiGit",
+  "React-knowledge-network/Programación/React": "SiReact",
+  "React-knowledge-network/Programación/TypeScript": "SiTypescript",
+  "React-knowledge-network/Programación/JavaScript": "SiJavascript",
+  "React-knowledge-network/Programación/HTML": "SiHtml5",
+  "React-knowledge-network/Programación/CSS": "SiCss3",
+  "React-knowledge-network/Programación/AWS": "FabAws",
+  "React-knowledge-network/Programación/Git/Git comandos.md": "RiFilePaper2Fill",
+  "React-knowledge-network/Programación/Git/Comandos": "RiFilePaper2Line",
+  "React-knowledge-network/Programación": "FabDev",
+  "React-knowledge-network/Plantillas": "FasT"
+}

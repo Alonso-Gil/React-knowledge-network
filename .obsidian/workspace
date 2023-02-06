@@ -1,29 +1,45 @@
 {
   "main": {
-    "id": "6bf78a7798416eb1",
+    "id": "cf6f434d6171da3c",
     "type": "split",
     "children": [
       {
-        "id": "d8cc8f554434d8bd",
+        "id": "b1300663868ff00f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "React-knowledge-network/Diccionario/Español/Definiciónes/Ley de Parkinson.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ad66e37b3af0bea9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React-knowledge-network/Diccionario/Español/Definiciónes/Principio de Pareto.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bc332c1d9a7ccd09",
+    "id": "c2c601ceefd23bf9",
     "type": "split",
     "children": [
       {
-        "id": "9a52f8a73f201e74",
+        "id": "645f471fb1e81382",
         "type": "tabs",
         "children": [
           {
-            "id": "5426c984c82ffdf5",
+            "id": "7894c43a8d9c1d8f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +47,7 @@
             }
           },
           {
-            "id": "b289239c48b6f0ca",
+            "id": "fa5b95cc2c1b71ea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,39 +65,61 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326
   },
   "right": {
-    "id": "3353c53c20eedbf2",
+    "id": "f54cfdd02290223a",
     "type": "split",
     "children": [
       {
-        "id": "93071bf41ea127b5",
+        "id": "1830ef7413a1c7ac",
         "type": "tabs",
         "children": [
           {
-            "id": "c50dc5a998bda871",
+            "id": "c3731b2e2fd5a3f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React-knowledge-network/Diccionario/Español/Definiciónes/Principio de Pareto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e97f2408b463b2ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React-knowledge-network/Diccionario/Español/Definiciónes/Principio de Pareto.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 228
   },
-  "active": "d8cc8f554434d8bd",
-  "lastOpenFiles": []
+  "active": "ad66e37b3af0bea9",
+  "lastOpenFiles": [
+    "React-knowledge-network/Diccionario/Español/Definiciónes/Ley de Parkinson.md",
+    "React-knowledge-network/Diccionario/Español/Definiciónes/Principio de Pareto.md",
+    "React-knowledge-network/Diccionario/Español/Glosario.md",
+    "React-knowledge-network/Diccionario/Frases.md",
+    "React-knowledge-network/Diccionario/Español/Definiciónes/Iconoclasia.md",
+    "React-knowledge-network/Diccionario/Español/Definiciónes/Ignominia.md",
+    "React-knowledge-network/Diccionario/Español/Definiciónes/Percentil.md",
+    "React-knowledge-network/Diccionario/Español/Definiciónes/Ley de Manson de la evasión.md",
+    "React-knowledge-network/Diccionario/Español/Definiciónes/Perpetuar.md",
+    "React-knowledge-network/Diccionario/Español/Definiciónes/Coaccionar.md"
+  ]
 }

@@ -1,1 +1,6 @@
-{}
+{
+  "translucency": false,
+  "baseFontSize": 18,
+  "cssTheme": "Obsidianite",
+  "accentColor": ""
+}

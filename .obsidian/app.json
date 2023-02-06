@@ -1,1 +1,14 @@
-{}
+{
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./Anexos",
+  "tabSize": 4,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": false,
+  "defaultViewMode": "source"
+}
